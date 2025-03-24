@@ -36,6 +36,8 @@ next-env.d.ts
 # IDE
 .idea
 .vscode
+.cursorrules
+mcp.json
 
 # OS generated files
 .DS_Store
